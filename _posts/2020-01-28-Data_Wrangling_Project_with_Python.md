@@ -1,18 +1,17 @@
 ---
-title: "Data Wrangling Project"
+title: "Data Wrangling Project with Python"
 date: 2020-01-28
-tags: [data wrangling, data science, messy data, JSON, XML]
+tags: [data wrangling, data science, messy data, json, xml]
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
-
 ## Data Wrangling Project with Python
 
 ## Introduction
 
 The work described in this project is the capstone project completed for the Python Data Wrangling course provided by www.dataoptimal.com. The objective of the project is to clean a messy dataset from a marketing department of an ecommerce company. The company analyzes customer data to inform their business decisions. My goal is to clean the dataset provided and present it in a structured format where each row represents a customer and each column some information about the customer.
 
-My work involved reading in and cleaning a JSON datafile, and an XML data file which is used to verify some information in the JSON file. The data wrangling was done in Python using libraries and procedures commonly used for working with unstructured data with the ultimate goal of rendering the data in a structured (and easy to read and understand) format.I have documented and organized my work using Jupyter Notebooks. Here is a link to the project github page: https://github.com/Tolu238/Tolu238.github.io/blob/master/Python%20Data%20Wrangling%20Project.ipynb
+My work involved reading in and cleaning a JSON datafile, and an XML data file which is used to verify some information in the JSON file. The data wrangling was done in Python using libraries and procedures commonly used for working with unstructured data with the ultimate goal of rendering the data in a structured (and easy to read and understand) format.I have documented and organized my work using Jupyter Notebooks. Here is a link to the project github page: https://github.com/Tolu238/Data-wrangling-with-Python/blob/master/Python%20Data%20Wrangling%20Project.ipynb
 
 
 ## Data
